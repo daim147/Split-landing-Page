@@ -79,6 +79,7 @@ h1{
   background-image: url('https://tr1.cbsistatic.com/hub/i/r/2020/11/09/eb090e9c-958e-4c64-9c41-ed3fe6ef881e/resize/770x/956e7caf9c207c72d73ddf59fcd44553/ps5-box-console-controller.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 
 }
 .split.left::before{
@@ -94,6 +95,7 @@ h1{
   background-image: url('https://i.ytimg.com/vi/0tUqIHwHDEc/maxresdefault.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+    background-position: center;
  
 }
 .split.right::before{
@@ -127,7 +129,7 @@ h1{
 @media (max-width:800px){
   h1{
     font-size: 2.3rem;
-    top: 40%;
+    top: 30%;
     transform: translate(-50%,  -50%);
     margin: 0 0.9rem;
     white-space: nowrap;
@@ -136,7 +138,7 @@ h1{
   .btn{
     padding: 1rem;
     width: 10rem;
-    top: 50%;
+    top: 45%;
     transform: translate(-50%, -50% );
   }
 }
