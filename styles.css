@@ -126,7 +126,7 @@ h1{
 
 @media (max-width:800px){
   h1{
-    font-size: 2rem;
+    font-size: 2.3rem;
     top: 40%;
     transform: translate(-50%,  -50%);
     margin: 0 0.9rem;
@@ -136,7 +136,7 @@ h1{
   .btn{
     padding: 1rem;
     width: 10rem;
-    top: 60%;
+    top: 50%;
     transform: translate(-50%, -50% );
   }
 }
